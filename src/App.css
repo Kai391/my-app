@@ -1,0 +1,9 @@
+.navbar{
+  display: flex;
+  flex-direction: row;
+  background-color: blue;
+}
+.links-name{
+  margin-right: 100px;
+  list-style: none;
+}
